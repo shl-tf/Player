@@ -1,0 +1,6 @@
+{
+  "name": "Song Player",
+  "description": "Android app that plays a selected audio song once and stops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
